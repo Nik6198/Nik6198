@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nik6198
 - 👀 I’m interested in algorithms, distributed systems and machine learning.
 - 🌱 I’m currently learning about distributed transactions.
-- 💞️ I’m looking to collaborate on any interesting distributed system.
+- 💞️ I’m looking to collaborate on any interesting project in distributed system.
 - 📫 You can reach me at niketdoke456@gmail.com
 
 <!---
